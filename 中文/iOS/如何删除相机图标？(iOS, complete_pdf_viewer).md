@@ -1,4 +1,4 @@
-如何删除相机图标？(iOS, complete_pdf_viewer)
+## 如何删除相机图标？(iOS, complete_pdf_viewer)
 
 RDK提供的demo complete_pdf_viewer中，初始界面的右下角有个相机图标，这实际上是Scan功能按钮。
 
